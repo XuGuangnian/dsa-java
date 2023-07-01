@@ -50,6 +50,6 @@ public class E02Leetcode203 {
         // ListNode head = ListNode.of(6, 6, 6, 6);
         System.out.println(head);
         System.out.println(new E02Leetcode203()
-                .removeElements1(head, 6));
+                .removeElements(head, 6));
     }
 }
